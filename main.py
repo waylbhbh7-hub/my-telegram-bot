@@ -8,7 +8,7 @@ app = Flask('')
 def home():
     return "Bot is running!"
 
-API_TOKEN = '9259122635:AAH713kXaZmQHepu7wxgPYOQeAh8cXxTTBk'
+API_TOKEN = '9259122635:AAGAs9h_8yGr50LTnR5DXxAGjnbPjJStnHU'
 bot = telebot.TeleBot(API_TOKEN)
 
 # قائمة الكلمات المفردة لتسهيل الفحص الذكي
